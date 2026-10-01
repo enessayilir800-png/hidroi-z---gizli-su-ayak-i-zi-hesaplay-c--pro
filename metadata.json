@@ -1,0 +1,7 @@
+{
+  "name": "Hidroİz - Gizli Su Ayak İzi Hesaplayıcı",
+  "description": "Gıdaların, giysilerin ve günlük eşyaların üretiminde harcanan gizli (sanal) su ayak izini hesaplayan mobil rehber.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
